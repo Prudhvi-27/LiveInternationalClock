@@ -1,0 +1,35 @@
+.bg-container {
+    background-image: url("https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+    height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: white;
+}
+
+
+.clock {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.clock h2 {
+    margin-top: 0;
+}
+
+.clock span {
+    font-size: 24px;
+}
+img {
+    height: 200px;
+    width: 400px;
+}
